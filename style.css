@@ -68,3 +68,54 @@ h2{
     font-size: 40px;
     padding-top: 20px;
 }
+
+.sectionC{
+    padding: 50px;
+}
+
+.sectionD{
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.sectionE{
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.sectionF{
+    text-align: center;
+    padding: 10px;
+}
+
+.sectionG{
+    text-align: center;
+    padding: 10px;
+}
+
+.sectionH{
+    text-align: center;
+    padding: 10px;
+}
+
+.sectionI{
+    text-align: center;
+    padding: 10px;
+}
+
+.sectionsss{
+    padding: 50px;
+}
+
+.sectionJ{
+    text-align: center;
+    font-size: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+.foot{
+    background-color: #5b4282;
+    height: 100px;
+}
