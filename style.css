@@ -9,8 +9,9 @@
     gap: 20px;
 }
 a{
-    color: #5b4282;
+    color: #f9f9f9;
     font-size: 20px;
+    text-decoration: none;
 }
 .body{
     background-color: #5b4282;
@@ -42,7 +43,7 @@ a{
     font-weight: 20px;
   
 
-}
+
 .sectionA{
     background-color: #f9f9f9;
     border-bottom:  #f9f9f9 ;
@@ -118,4 +119,13 @@ h2{
 .foot{
     background-color: #5b4282;
     height: 100px;
+}
+.footA{
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+    color: #f9f9f9;
+    text-decoration: none;
+    gap: 10px;
+    
 }
